@@ -49,7 +49,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Junk Generator will simply fill Microsoft Documents with junk text, to alter file size to something more believable. The aim is to simply trigger any macros contained in the document. The script currently works on the following documents:
 * []() .docx
